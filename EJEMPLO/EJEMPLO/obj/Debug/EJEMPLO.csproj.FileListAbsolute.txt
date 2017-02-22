@@ -24,3 +24,6 @@ C:\Users\Cristian\Documents\GitHub\EJEMPLO\EJEMPLO\EJEMPLO\obj\Debug\EJEMPLO.csp
 C:\Users\ottog\Documents\GitHub\EJEMPLO\EJEMPLO\EJEMPLO\bin\Debug\EJEMPLO.exe.config
 C:\Users\ottog\Documents\GitHub\EJEMPLO\EJEMPLO\EJEMPLO\obj\Debug\EJEMPLO.exe
 C:\Users\ottog\Documents\GitHub\EJEMPLO\EJEMPLO\EJEMPLO\obj\Debug\EJEMPLO.pdb
+C:\Users\javie\Documents\GitHub\EJEMPLO\EJEMPLO\EJEMPLO\bin\Debug\EJEMPLO.exe.config
+C:\Users\javie\Documents\GitHub\EJEMPLO\EJEMPLO\EJEMPLO\obj\Debug\EJEMPLO.exe
+C:\Users\javie\Documents\GitHub\EJEMPLO\EJEMPLO\EJEMPLO\obj\Debug\EJEMPLO.pdb

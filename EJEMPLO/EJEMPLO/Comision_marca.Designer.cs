@@ -76,6 +76,7 @@
             this.label4 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
             this.gpb_com_ven = new System.Windows.Forms.GroupBox();
+            this.button4 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
@@ -89,7 +90,7 @@
             this.PORCENTAJE_COMISION = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.TOTAL_VENTA = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.TOTAL_COMISION = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.button4 = new System.Windows.Forms.Button();
+            this.button5 = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             this.gpb_com_ven.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
@@ -568,6 +569,7 @@
             // 
             // gpb_com_ven
             // 
+            this.gpb_com_ven.Controls.Add(this.button5);
             this.gpb_com_ven.Controls.Add(this.button4);
             this.gpb_com_ven.Controls.Add(this.button3);
             this.gpb_com_ven.Controls.Add(this.button2);
@@ -604,6 +606,16 @@
             this.gpb_com_ven.TabIndex = 166;
             this.gpb_com_ven.TabStop = false;
             this.gpb_com_ven.Text = "Datos";
+            // 
+            // button4
+            // 
+            this.button4.Location = new System.Drawing.Point(276, 291);
+            this.button4.Name = "button4";
+            this.button4.Size = new System.Drawing.Size(106, 28);
+            this.button4.TabIndex = 232;
+            this.button4.Text = "Cambio 3";
+            this.button4.UseVisualStyleBackColor = true;
+            this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
             // button3
             // 
@@ -710,15 +722,15 @@
             this.TOTAL_COMISION.Name = "TOTAL_COMISION";
             this.TOTAL_COMISION.ReadOnly = true;
             // 
-            // button4
+            // button5
             // 
-            this.button4.Location = new System.Drawing.Point(276, 291);
-            this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(106, 28);
-            this.button4.TabIndex = 232;
-            this.button4.Text = "Cambio 3";
-            this.button4.UseVisualStyleBackColor = true;
-            this.button4.Click += new System.EventHandler(this.button4_Click);
+            this.button5.Location = new System.Drawing.Point(159, 290);
+            this.button5.Name = "button5";
+            this.button5.Size = new System.Drawing.Size(106, 28);
+            this.button5.TabIndex = 233;
+            this.button5.Text = "Cambio 2";
+            this.button5.UseVisualStyleBackColor = true;
+            this.button5.Click += new System.EventHandler(this.button5_Click);
             // 
             // Comision_marca
             // 
@@ -805,5 +817,6 @@
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Button button3;
         private System.Windows.Forms.Button button4;
+        private System.Windows.Forms.Button button5;
     }
 }
