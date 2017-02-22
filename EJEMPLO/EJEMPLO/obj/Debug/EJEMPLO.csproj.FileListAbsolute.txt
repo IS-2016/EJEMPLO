@@ -21,3 +21,6 @@ C:\Users\Cristian\Documents\GitHub\EJEMPLO\EJEMPLO\EJEMPLO\obj\Debug\EJEMPLO.Com
 C:\Users\Cristian\Documents\GitHub\EJEMPLO\EJEMPLO\EJEMPLO\obj\Debug\EJEMPLO.Form1.resources
 C:\Users\Cristian\Documents\GitHub\EJEMPLO\EJEMPLO\EJEMPLO\obj\Debug\EJEMPLO.Properties.Resources.resources
 C:\Users\Cristian\Documents\GitHub\EJEMPLO\EJEMPLO\EJEMPLO\obj\Debug\EJEMPLO.csproj.GenerateResource.Cache
+C:\Users\ottog\Documents\GitHub\EJEMPLO\EJEMPLO\EJEMPLO\bin\Debug\EJEMPLO.exe.config
+C:\Users\ottog\Documents\GitHub\EJEMPLO\EJEMPLO\EJEMPLO\obj\Debug\EJEMPLO.exe
+C:\Users\ottog\Documents\GitHub\EJEMPLO\EJEMPLO\EJEMPLO\obj\Debug\EJEMPLO.pdb

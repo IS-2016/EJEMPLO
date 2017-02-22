@@ -448,5 +448,10 @@ namespace EJEMPLO
         {
             MessageBox.Show("CRITICO!!!!!");
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("pongale los puntos, no sea mala onda");
+        }
     }
 }
