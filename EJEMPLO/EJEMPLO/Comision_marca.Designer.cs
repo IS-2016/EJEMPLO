@@ -88,6 +88,7 @@
             this.PORCENTAJE_COMISION = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.TOTAL_VENTA = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.TOTAL_COMISION = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.button3 = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             this.gpb_com_ven.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
@@ -566,6 +567,7 @@
             // 
             // gpb_com_ven
             // 
+            this.gpb_com_ven.Controls.Add(this.button3);
             this.gpb_com_ven.Controls.Add(this.button2);
             this.gpb_com_ven.Controls.Add(this.dataGridView1);
             this.gpb_com_ven.Controls.Add(this.label5);
@@ -695,6 +697,17 @@
             this.TOTAL_COMISION.Name = "TOTAL_COMISION";
             this.TOTAL_COMISION.ReadOnly = true;
             // 
+            // button3
+            // 
+            this.button3.Font = new System.Drawing.Font("Century Gothic", 8.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button3.Location = new System.Drawing.Point(26, 291);
+            this.button3.Name = "button3";
+            this.button3.Size = new System.Drawing.Size(80, 28);
+            this.button3.TabIndex = 231;
+            this.button3.Text = "CAMBIO1";
+            this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
+            // 
             // Comision_marca
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -778,5 +791,6 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn TOTAL_VENTA;
         private System.Windows.Forms.DataGridViewTextBoxColumn TOTAL_COMISION;
         private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Button button3;
     }
 }
